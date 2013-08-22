@@ -9,3 +9,6 @@ gem 'therubyracer'
 
 # Using less for page styling
 gem 'less-rails'
+
+# Rspec for testing purposes
+gem 'rspec-rails', '~> 2.0'
