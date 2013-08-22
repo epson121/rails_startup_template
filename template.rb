@@ -12,3 +12,12 @@ gem 'less-rails'
 
 # Rspec for testing purposes
 gem 'rspec-rails', '~> 2.0'
+
+# Install
+## =================================================
+
+# Install bootstrap
+run "rails g bootstrap:install"
+
+# Install rspec, create /spec folder
+run "rails g rspec:install"
